@@ -9,7 +9,6 @@ public class DecimalN {
 
         double largeDecimalBox=12356.456;
         // char is used for single letter, number and symbol.
-
         char letter='M';
         char female='F';
         char symbol='#';
